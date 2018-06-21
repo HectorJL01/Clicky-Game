@@ -1,0 +1,9 @@
+{
+  "name": "yes",
+  "version": "1",
+  "description": "fun",
+  "main": "index.js",
+  "repository": "git@github.com:HectorJL01/Clicky-Game.git",
+  "author": "hector",
+  "license": "MIT"
+}
